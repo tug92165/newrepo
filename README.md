@@ -1,4 +1,4 @@
 # newrepo
 mergeconflict test
 change the readme
-hello2
+hello3
